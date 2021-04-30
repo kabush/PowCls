@@ -1,0 +1,17 @@
+# ========================================
+# ========================================
+# Keith Bush, PhD (2021)
+# Univ. of Arkansas for Medical Sciences
+# Brain Imaging Research Center (BIRC)
+# ========================================
+# ========================================
+
+# ----------------------------------------
+# ----------------------------------------
+    OVERVIEW: 
+# ----------------------------------------
+# ----------------------------------------
+
+This code is a simple example to demonstrate the use of the R pwr 
+package for calculating the required sample size to sufficiently
+power a test of differences between the described distributions.
